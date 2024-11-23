@@ -1,13 +1,13 @@
 import type { ExternalPluginConfig } from '@windy/interfaces';
 
 const config: ExternalPluginConfig = {
-    name: 'windy-plugin-my-plugin',
+    name: 'CGN-Windy',
     version: '0.1.0',
     icon: '🔌',
-    title: 'This is my first plugin',
+    title: 'CGN-Windy',
     description: 'This is my first plugin.',
-    author: 'John Doe (optional company name)',
-    repository: 'https://github.com/windycom/windy-plugin-template',
+    author: 'Julian U EDDK',
+    repository: 'https://github.com/Julio-CGN/CGN-Windy',
     desktopUI: 'rhpane',
     mobileUI: 'fullscreen',
     routerPath: '/my-plugin',
